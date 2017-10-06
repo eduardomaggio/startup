@@ -1,0 +1,9 @@
+NAME=example
+YEAR=2017
+VERSION=0.1
+DESCRIPTION=The example project short description
+URL=http://example.com/repo
+AUTHOR=SNOW, John
+LICENSE=MIT
+PACKAGES=['numpy', 'scipy']
+ZIP_SAFE=FALSE
